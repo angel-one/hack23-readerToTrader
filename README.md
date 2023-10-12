@@ -7,7 +7,7 @@ This Python-based chatbot uses OpenAI's ChatGPT to provide answers to frequently
 ## Prerequisites:
 Python 3.6 or later<br>
 OpenAI GPT-3.5 API key (you can sign up for access on the OpenAI website)<br>
-### Required Python libraries (install using pip):<br>
+### Required Python libraries (install using pip):
 openai<br>
 pandas<br>
 matplotlib<br>
