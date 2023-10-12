@@ -2,7 +2,12 @@
 # Stock Analysis AngelOne Chatbot with ChatGPT in Python
 
 ## Overview:
-This Python-based chatbot uses OpenAI's ChatGPT to provide answers to frequently asked questions (FAQs) related to the stock market. It can answer queries about the current stock price of a particular stock, Simple Moving Average (SMA), Exponential Moving Average (EMA), Moving Average Convergence Divergence (MACD), Relative Strength Index (RSI), and even generate plot the stock’s historical price data.
+This Python-based chatbot uses OpenAI's ChatGPT to provide answers to frequently asked questions (FAQs) related to the stock market. It can answer queries about the current stock price of a particular stock, SMA, EMA, RSI and even generate the plots for stock’s historical price data. We obtain live stock data using Yahoo Finance API (yfinance). It dynamically handles responses, invoking appropriate functions based on user queries and presenting the results in a user-friendly manner.
+
+### Abbreviations
+SMA - Simple Moving Average<br>
+EMA - Exponential Moving Average<br>
+RSI - Relative Strength Index<br>
 
 ## Prerequisites:
 Python 3.6 or later<br>
