@@ -17,13 +17,14 @@ streamlit
 ## Installation:
 Clone this repository into your local machine:
 
-`git clone git@github.com:angel-one/hack23-readerToTrader.git`
+```shell
+git clone git@github.com:angel-one/hack23-readerToTrader.git```
 
 ## Install required python packages:
-~pip install pandas openai matplotlib yfinance streamlit~ 
+`pip install pandas openai matplotlib yfinance streamlit`
 
 ## Create a .env file in the project directory to store your OpenAI GPT-3.5 API key. 
-~OPENAI_API_KEY=your-api-key-here~
+`OPENAI_API_KEY=your-api-key-here`
 
 ## Working demo of AngelOne Chatbot
 https://drive.google.com/drive/u/0/folders/15VNgf0RJYtQF5LGNYDxY55BKUl7-_Au4
