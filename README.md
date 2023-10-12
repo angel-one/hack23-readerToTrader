@@ -15,7 +15,7 @@ yfinance<br>
 streamlit<br>
 
 ## Installation:
-###Clone this repository into your local machine:
+### Clone this repository into your local machine:
 
 ```shell
 git clone git@github.com:angel-one/hack23-readerToTrader.git
