@@ -16,7 +16,7 @@ streamlit
 
 ## Installation:
 Clone this repository into your local machine:
-git clone git@github.com:angel-one/hack23-readerToTrader.git
+``` git clone git@github.com:angel-one/hack23-readerToTrader.git ```
 
 ## Install required python packages:
 pip install pandas openai matplotlib yfinance streamlit 
